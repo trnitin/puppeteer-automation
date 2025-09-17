@@ -1,0 +1,3 @@
+{
+    "ignore": ["*.bets.json","*.auth.json", "*.log"]
+}
